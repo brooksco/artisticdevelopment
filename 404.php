@@ -91,7 +91,7 @@
 <body>
 
   <div id="bear-bearrier">
-   <img id="andy" src="img/404littlebear.png" />
+   <img id="andy" src="/img/404littlebear.png" />
 
    <div id="bearror-of-bad-news">
     <h2>Ruh roh.</h2>
